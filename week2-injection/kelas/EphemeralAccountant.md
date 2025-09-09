@@ -25,8 +25,8 @@ Change email using UNION and the variable to mimic the user a legitimate user.
 }
 ```
 
-![alt text](<Screenshot (22).png>)
+![alt text](<img/Screenshot (22).png>)
 
 As you can see we got authentication token means we already succed to solved the challenge.
 
-![alt text](<Screenshot (23).png>)
+![alt text](<img/Screenshot (23).png>)
