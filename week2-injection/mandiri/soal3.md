@@ -1,4 +1,5 @@
 # SQLiLite
+Resource : https://play.picoctf.org/practice/challenge/304?page=1&search=sql 
 
 ![alt text](img/image.png)
 

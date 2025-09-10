@@ -1,4 +1,5 @@
 # SQL injection vulnerability in WHERE clause allowing retrieval of hidden data
+Resource : https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 
 This lab contains a SQL injection vulnerability in the product category filter. When the user selects a category. To solve the lab, perform a SQL injection attack that causes the application to display one or more unreleased products. Here are the solution :
 

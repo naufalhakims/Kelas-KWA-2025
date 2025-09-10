@@ -1,4 +1,5 @@
 # More SQL
+Resource : https://play.picoctf.org/practice/challenge/358?page=1&search=sql 
 
 This challenge is similar as SQLite, we use payload `'OR 1=1; -- //` to solved the challenge
 

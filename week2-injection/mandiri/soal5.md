@@ -1,5 +1,7 @@
 # SQL injection UNION attack, determining the number of columns returned by the query - Portswigger
 
+Resources : https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns
+
 The objective of the challenge is to determining the number of columns returned by the query.
 
 1. First step you always can use your burpsuite and select a random catagory and turn your intercept on. 
